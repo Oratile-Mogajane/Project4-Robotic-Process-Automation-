@@ -1,0 +1,15 @@
+﻿{
+  "Name": "CreateCustomer - EcoPower_Logistics _",
+  "Description": "Create new customer Window",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Id": "IdIz7zL-YkGdI_0TSSLV7w",
+  "Reference": "JRZNrkd-BkOq5K7dYhO43Q/IdIz7zL-YkGdI_0TSSLV7w",
+  "ParentRef": "JRZNrkd-BkOq5K7dYhO43Q/MZkEWPQeNUmTI7FOT9kSAw",
+  "Created": "2023-10-15T18:06:22.9258965Z",
+  "Updated": "2023-10-15T18:06:22.9258965Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
