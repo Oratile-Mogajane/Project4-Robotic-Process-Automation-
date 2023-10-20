@@ -12,15 +12,15 @@ HOWE USER CAN USE THE PROJECT:
 
   REFERENCING
 
--Boboc, M. (n.d.). Excel Automation Tutorial - DataTables Automation | UiPath. [online] www.uipath.com. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation.
+Boboc, M. (n.d.). Excel Automation Tutorial - DataTables Automation | UiPath. [online] www.uipath.com. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation.
 
--cloud.contentraven.com. (n.d.). Introduction to RPA and Automation. [online] Available at: https://academy.uipath.com/courses/introduction-to-rpa-and-automation.
+cloud.contentraven.com. (n.d.). Introduction to RPA and Automation. [online] Available at: https://academy.uipath.com/courses/introduction-to-rpa-and-automation.
 
--UiPath Studio. (n.d.). UI Automation. [online] Available at: https://docs.uipath.com/studio/docs/ui-automation.
+UiPath Studio. (n.d.). UI Automation. [online] Available at: https://docs.uipath.com/studio/docs/ui-automation.
 
--Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/tutorials [Accessed 19 Oct. 2023].
+Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/tutorials [Accessed 19 Oct. 2023].
 
--‌www.youtube.com. (n.d.). Read Range Activity| How to Read Excel in UiPath | UiPath Tutorials | Coderslobby. [online] Available at: https://www.youtube.com/watch?v=5G-024O9XK4 [Accessed 18 Oct. 2023].
+‌www.youtube.com. (n.d.). Read Range Activity| How to Read Excel in UiPath | UiPath Tutorials | Coderslobby. [online] Available at: https://www.youtube.com/watch?v=5G-024O9XK4 [Accessed 18 Oct. 2023].
 
 ‌
 
