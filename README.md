@@ -22,6 +22,16 @@ Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023
 
 ‌www.youtube.com. (n.d.). Read Range Activity| How to Read Excel in UiPath | UiPath Tutorials | Coderslobby. [online] Available at: https://www.youtube.com/watch?v=5G-024O9XK4 [Accessed 18 Oct. 2023].
 
+‌Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/rpa-testing [Accessed 15 Oct. 2023].
+
+Uipath.com. (2023). Available at: https://docs.uipath.com/test-suite/automation-suite/2023.4/user-guide/test-automation-best-practices [Accessed 13 Oct. 2023].
+
+www.youtube.com. (n.d.). 14 September weekly virtual class Automation introduction. [online] Available at: https://www.youtube.com/watch?v=wi18JuLhZ74&t=2686s [Accessed 10 Oct. 2023].
+
+www.youtube.com. (n.d.). 03 October Project 4 Explained. [online] Available at: https://www.youtube.com/watch?v=5s1-p1okZoc&t=374s [Accessed 10 Oct. 2023].
+
+Kulkarni, V. (2023). User Acceptance Testing (UAT)- An Overview. [online] SOAIS. Available at: https://www.soais.com/user-acceptance-testing-uat/ [Accessed 15 Oct. 2023].
+
 ‌
 
 ‌
